@@ -64,7 +64,7 @@ Pod::Spec.new do |s|
 
   s.source       = { :git => "https://github.com/AKIRACW/AKGestureLock.git", :tag => "0.0.1" }
 
-  s.source_files  = "AKGestureLock/src/*"
+  s.source_files  = "AKGestureLock/AKGestureLockView/*"
   # s.exclude_files = "Classes/Exclude"
 
   # s.public_header_files = "Classes/**/*.h"
